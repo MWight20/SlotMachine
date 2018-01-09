@@ -1,0 +1,10 @@
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\bin\Debug\Assignment5_SlotMachine.exe.config
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\bin\Debug\Assignment5_SlotMachine.exe
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\bin\Debug\Assignment5_SlotMachine.pdb
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\obj\Debug\Assignment5_SlotMachine.Form1.resources
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\obj\Debug\Assignment5_SlotMachine.Properties.Resources.resources
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\obj\Debug\Assignment5_SlotMachine.csproj.GenerateResource.Cache
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\obj\Debug\Assignment5_SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\obj\Debug\Assignment5_SlotMachine.exe
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\obj\Debug\Assignment5_SlotMachine.pdb
+C:\Users\Mike\source\repos\Assignment5_SlotMachine\Assignment5_SlotMachine\obj\Debug\Assignment5_SlotMachine.csprojResolveAssemblyReference.cache
