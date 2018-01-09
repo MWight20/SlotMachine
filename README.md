@@ -1,5 +1,5 @@
 # SlotMachine
-.NET C# Form Application that plays a 3 slot or 5 slot variation of a slot machine
+
 
    This program runs a slot machine game. There are two game modes: 3 slot(default mode) and 5 slot, each using a slightly
 varied points reward in a credit system. You are allowed to either choose an existing player profile from a comboBox drop down list,
