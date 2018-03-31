@@ -10,10 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Timers;
 /*
- *  Programmers: Michael Wight(z1644029)
- *               Bhavin Shah(Z1803271)
- * 
- *  Class: .NET Programming (Graduate) CSCI680
+ *  Programmers: Michael Wight
  *   
  *  Program: Assignment 5 - "Slot Machine"
  * 
